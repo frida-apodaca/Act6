@@ -7,22 +7,22 @@
 -![image](https://github.com/user-attachments/assets/0aa52dc1-d487-497c-a0de-dc50194db419)
 
 #Pantalla tres
--![image](https://github.com/user-attachments/assets/90e1df84-8046-4321-8d87-e0b73794cb85)
+-![image](https://github.com/user-attachments/assets/b58afb14-7c11-42ca-88c2-250ef3cd9e1c)
 
 #Pantalla cuatro
 -![image](https://github.com/user-attachments/assets/0803aa66-b716-4ac1-b201-112e818ffb7d)
 
 #Pantalla cinco
--![image](https://github.com/user-attachments/assets/70dc4bc2-7a37-4b5a-b0ff-97ae5340dded)
+-![image](https://github.com/user-attachments/assets/17896629-5765-4142-b6cc-a29ac7201e49)
 
 #pantalla seis
-![image](https://github.com/user-attachments/assets/ec375655-2611-43fd-94d4-d28e6173887f)
+-![image](https://github.com/user-attachments/assets/4d03c495-ad29-443e-8254-2a0ca4203cd9)
 
 #Pantalla siete
--![image](https://github.com/user-attachments/assets/f19a82fc-0b00-49f0-9bf0-42c837d5d3ff)
+-![image](https://github.com/user-attachments/assets/95a92080-08e7-46e4-82e9-40b2d795b505)
 
 #Pantalla ocho
--![image](https://github.com/user-attachments/assets/caba7ec0-f92b-42ac-b37f-661e07d4aafa)
+-![image](https://github.com/user-attachments/assets/ecaa9921-e842-4ad9-8af1-ab53abeae610)
 
 #Pantalla ocho
 -![image](https://github.com/user-attachments/assets/d583aab5-1098-4820-a2a5-5289ff3c2030)
