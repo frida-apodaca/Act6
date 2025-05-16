@@ -22,17 +22,18 @@
 -![image](https://github.com/user-attachments/assets/95a92080-08e7-46e4-82e9-40b2d795b505)
 
 #Pantalla ocho
+-![image](https://github.com/user-attachments/assets/07b35cdd-96af-446c-997b-6c5dc09ba0bf)
+
+#Pantalla nueve
 -![image](https://github.com/user-attachments/assets/b2cd210b-ba8e-4b11-8cc6-61ce441274f3)
 -![image](https://github.com/user-attachments/assets/cb3437a8-54c4-41b3-b2b8-056f68f2f18e)
 -![image](https://github.com/user-attachments/assets/0533ebb3-bb0c-425b-a2fd-fc9e290158f6)
 
-
-
-#Pantalla nueve
+#Pantalla diez
 -![image](https://github.com/user-attachments/assets/47ba5c77-cfc8-4c4b-8d84-a2d928e0f4a2)
 -![image](https://github.com/user-attachments/assets/4782b2bf-767f-4dfe-aa45-3002981c12b4)
 
-#Pantalla diez
+#Pantalla once
 ![image](https://github.com/user-attachments/assets/b6003e79-d2fc-4fda-9782-8d5141927f1f)
 
 
