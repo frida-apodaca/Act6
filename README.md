@@ -24,14 +24,14 @@
 #Pantalla ocho
 -![image](https://github.com/user-attachments/assets/caba7ec0-f92b-42ac-b37f-661e07d4aafa)
 
-#Pantalla nueve
+#Pantalla ocho
 -![image](https://github.com/user-attachments/assets/d583aab5-1098-4820-a2a5-5289ff3c2030)
 
-#Pantalla ocho
+#Pantalla nueve
 -![image](https://github.com/user-attachments/assets/47ba5c77-cfc8-4c4b-8d84-a2d928e0f4a2)
 -![image](https://github.com/user-attachments/assets/4782b2bf-767f-4dfe-aa45-3002981c12b4)
 
-#Pantalla nueve
+#Pantalla diez
 ![image](https://github.com/user-attachments/assets/b6003e79-d2fc-4fda-9782-8d5141927f1f)
 
 
